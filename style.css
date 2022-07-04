@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&family=Trispace:wght@300&display=swap');
+*{ 
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: gray;
+}
+
+.container{
+    background:grey ;
+    width: 100vw;
+    height: 100vh;
+    
+}
+.center {
+    position:absolute;
+    font-size: 50px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+.div-1{
+    background-color: antiquewhite;
+    width: 90vw;
+    height: 100vh;
+   text-align: center;
+   border:5px solid gray;
+   font-size: 10px;
+   color: black;
+   font-family: 'Rubik Moonrocks', cursive;
+}
+.div-2{
+    background:greenyellow;
+    width: 90vw;
+    height: 100vh;
+    text-align: center;
+    border:5px solid gray;
+    font-size: 10px;
+    color:black ;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+.div-3{
+    background:bisque;
+    width: 90vw;
+    height: 100vh;
+    text-align: center;
+    border:5px solid gray;
+    font-size: 10px;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+.div-4{
+    background:yellow;
+    width: 90vw;
+    height: 100vh;
+    text-align: center;
+    border:5px solid gray;
+    font-size: 10px;
+    font-family: 'Rubik Moonrocks', cursive;
+
+}
+.div1{
+    width:90vw;
+    height:100vh;
+   
+    
+}
+.div2{
+    width:80vw;
+    height:80vh;
+    border-style: solid;
+    border-color: white;
+    padding: 1ex;
+}
+.div3{
+    width:80vw;
+    height:80vh;
+    border-style: solid;
+    border-color: white;
+    padding: 1ex;
+}
+.div4{
+    width:80vw;
+    height:80vh;
+    border-style: solid;
+    border-color: white;
+    padding: 1ex;
+}
+
+
+
+
+
